@@ -1,0 +1,7 @@
+TheSwordman_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/level0 filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/level1 filter=lfs diff=lfs merge=lfs -text
+TheSwordman_Data/level1.resS filter=lfs diff=lfs merge=lfs -text
